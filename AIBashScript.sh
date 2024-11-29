@@ -27,7 +27,7 @@ while true; do
         [Yy]* ) 
             echo "Cool, let's get started."
             break
-        ;;ollama run dolphin-mixtral:8x7b
+        ;;
         [Nn]* ) 
             echo "Ain't no thang. Let's try again later."
             exit
